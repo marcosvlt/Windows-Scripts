@@ -1,2 +1,2 @@
 # Backup with Robocopy
-Simple Batch Script to Backup folder in windows with robocopy. 
+Simple Batch Script to Backup folder in windows with robocopy with log file. 
